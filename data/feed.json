@@ -1,0 +1,16 @@
+{
+  "update_time": "2026-05-02T16:00:00Z",
+  "items": [
+    {
+      "id": "unique-uuid-001",
+      "title": "宏观视角下的降息博弈、国内周期与AI突围",
+      "summary": "美联储6月前维持高息，关注两年期美债收益率；国内经济循环自主化目标不变，AI算力成本优势是核心突破口。",
+      "full_text": "**美联储降息与市场逻辑**：2026年6月前美联储大概率维持350-375BP高息，此后断崖式降息概率上升。核心观测指标为美国两年期与十年期国债收益率...（完整内容）",
+      "image_url": "https://example.com/optional-cover.jpg",
+      "source": "资管阿宝(宏观版)",
+      "source_url": "https://v.douyin.com/Mm_LyvuvFvE/",
+      "publish_date": "2026-05-01",
+      "tags": ["美联储", "AI", "国产算力", "宏观周期"]
+    }
+  ]
+}
